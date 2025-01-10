@@ -1,0 +1,1 @@
+# DIO-opencv-Redu-o_dimensionamento_imagem
